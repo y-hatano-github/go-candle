@@ -1,7 +1,7 @@
 ![gocandle](gocandle.gif)
 
 # What is this?
-Fire effect written in Golang.
+Fire effect written in Golang.<br>
 Seeing fire make you feel calm.
 
 ## How to get and run the code.
