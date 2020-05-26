@@ -1,14 +1,21 @@
 package main
 
 import (
-	"github.com/nsf/termbox-go"
 	"math/rand"
+
+	termbox "github.com/nsf/termbox-go"
+
 	//	"strconv"
 	"time"
 )
 
+// WIDTH is width of fire
 const WIDTH = 16
+
+// HEIGHT is height of file
 const HEIGHT = 16
+
+// FLUCTUATION is fluctuation of fire
 const FLUCTUATION = 5
 
 func main() {

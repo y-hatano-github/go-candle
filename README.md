@@ -20,6 +20,7 @@ Run the code.
 ```
 go run main.go
 ```
+Terminal which run this app must support 256 colors.
 
 ## Key bindings
 [esc / CTRL+C] - exit<br>
