@@ -5,6 +5,8 @@ Fire effect written in Golang.<br>
 Seeing fire make you feel calm.
 
 ## How to get and run the code.
+### build version
+go1.12.17
 ### 1st step
 Get the code.
 ```
