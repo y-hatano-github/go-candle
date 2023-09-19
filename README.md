@@ -2,7 +2,11 @@
 
 # What is this?
 Fire effect written in Golang.<br>
-Seeing fire make you feel calm.
+Seeing fire make you feel calm.<br>
+
+## Joke command developed based on this code
+I created joke command based on this code as follows. <br>
+[https://github.com/y-hatano-github/candle](https://github.com/y-hatano-github/candle)
 
 ## How to get and run the code.
 ### build version
